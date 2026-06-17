@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local DB & Temp Files
+db.json
+temp/
+reports/
